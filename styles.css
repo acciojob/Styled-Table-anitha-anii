@@ -1,1 +1,15 @@
 /* your code */
+table,tr,td{
+	padding:10px;
+/* 	margin:10px; */
+		
+}
+.head{
+	padding:10px;
+	background-color:darkblue;
+	color:white;
+}
+tr:nth-child(even){
+	background-color:grey;
+
+}
